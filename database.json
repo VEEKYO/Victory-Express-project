@@ -1,0 +1,22 @@
+[
+  {
+    "userId": "3cc22269-4101-4202-91f8-33117b3abbc6",
+    "organization": "node stack",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "Lagos",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 2,
+    "noOfEmployees": 2,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ]
+  }
+]
